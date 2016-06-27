@@ -1,1 +1,8 @@
+*
+!/**/
+!*.*
 *.data
+**/data*
+**/lks/*
+*.out
+.DS_Store
